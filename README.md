@@ -7,5 +7,7 @@ Pre-requisites
 Tools
 
 3. Git 
+
 -Basic installation cmdlets in Linux, Windows
+
 -Most used Git cmdlets 
